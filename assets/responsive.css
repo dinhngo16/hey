@@ -73,6 +73,10 @@
     .footer-list__mobile {
         padding: 0 95px;
     }
+    
+    .wide_tablet{
+        width: 100%;
+    }
 }
 
 /* mobile */
