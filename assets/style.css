@@ -347,7 +347,7 @@
 .header-history{
     width: 600px;
     border-radius: 2px;
-    margin-top: 167px;
+    top: 96px;
     box-shadow: 0 1px 5px rgb(136 86 86);
     background-color: antiquewhite;
     display: none;
